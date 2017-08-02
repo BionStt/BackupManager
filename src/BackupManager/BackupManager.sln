@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackupManager", "BackupMana
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackupService", "..\BackupService\BackupService.csproj", "{91BDF4DB-9EB6-4153-B433-4DDE08600043}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackupManagerWeb", "BackupManagerWeb\BackupManagerWeb.csproj", "{03AC0E1F-3F66-440F-A2E0-0467EB06A6E1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackupManagerWeb", "..\BackupManagerWeb\BackupManagerWeb.csproj", "{0130542C-2EA1-4CA9-994D-91CB8B9EA715}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{91BDF4DB-9EB6-4153-B433-4DDE08600043}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91BDF4DB-9EB6-4153-B433-4DDE08600043}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91BDF4DB-9EB6-4153-B433-4DDE08600043}.Release|Any CPU.Build.0 = Release|Any CPU
-		{03AC0E1F-3F66-440F-A2E0-0467EB06A6E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{03AC0E1F-3F66-440F-A2E0-0467EB06A6E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{03AC0E1F-3F66-440F-A2E0-0467EB06A6E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{03AC0E1F-3F66-440F-A2E0-0467EB06A6E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0130542C-2EA1-4CA9-994D-91CB8B9EA715}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0130542C-2EA1-4CA9-994D-91CB8B9EA715}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0130542C-2EA1-4CA9-994D-91CB8B9EA715}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0130542C-2EA1-4CA9-994D-91CB8B9EA715}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
