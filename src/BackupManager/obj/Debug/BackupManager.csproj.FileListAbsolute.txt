@@ -1,0 +1,11 @@
+D:\BackupManager\src\BackupManager\bin\Debug\BackupManager.exe.config
+D:\BackupManager\src\BackupManager\bin\Debug\BackupManager.exe
+D:\BackupManager\src\BackupManager\bin\Debug\BackupManager.pdb
+D:\BackupManager\src\BackupManager\obj\Debug\BackupManager.csprojResolveAssemblyReference.cache
+D:\BackupManager\src\BackupManager\obj\Debug\BackupManager.LoginForm.resources
+D:\BackupManager\src\BackupManager\obj\Debug\BackupManager.Properties.Resources.resources
+D:\BackupManager\src\BackupManager\obj\Debug\BackupManager.csproj.GenerateResource.Cache
+D:\BackupManager\src\BackupManager\obj\Debug\BackupManager.exe
+D:\BackupManager\src\BackupManager\obj\Debug\BackupManager.pdb
+D:\BackupManager\src\BackupManager\obj\Debug\BackupManager.Forms.EditFileForm.resources
+D:\BackupManager\src\BackupManager\obj\Debug\BackupManager.Forms.MainForm.resources
